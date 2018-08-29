@@ -1,5 +1,7 @@
 # DesignPattern
 
+### 一、设计模式
+
 <table>
   <tr>
      <th rowspan="5" width="300px" align="left">创建型模式:（5种）<br>这些设计模式提供了一种在创建对象的同时隐藏创建逻辑的方式，而不是使用 new 运算符直接实例化对象。这使得程序在判断针对某个给定实例需要创建哪些对象时更加灵活。</th>
@@ -106,5 +108,7 @@
     <td><a href="">传输对象模式（Transfer Object Pattern）</a></td>
   </tr>
 </teble>
-------------------------------------
+
+### 二、图解设计模式之间的关系
+
 <div align="center"><img src="./img/design-patterns.jpg"/></div>
