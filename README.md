@@ -81,7 +81,7 @@
     <td><a href="">空对象模式（Null Object Pattern）</a></td>
   </tr>
   <tr>
-    <th rowspan="8" width="300px" align="left">J2EE 模式：<br>这些设计模式特别关注表示层。这些模式是由 Sun Java Center 鉴定的。</th>
+    <th rowspan="8" width="300px" align="left">J2EE 模式：（8种）<br>这些设计模式特别关注表示层。这些模式是由 Sun Java Center 鉴定的。</th>
     <td><a href="">MVC 模式（MVC Pattern）</a></td>
   </tr>
   <tr>
