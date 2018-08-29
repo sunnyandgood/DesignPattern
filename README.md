@@ -51,6 +51,42 @@
     <td><a href="./4、观察者模式.md">观察者模式（Observer Pattern）</a></td>
   </tr>
   <tr>
+    <td><a href="">责任链模式（Chain of Responsibility Pattern）</a></td>
+  </tr>
+  <tr>
+    <td><a href="">命令模式（Command Pattern）</a></td>
+  </tr>
+  <tr>
+    <td><a href="">解释器模式（Interpreter Pattern）</a></td>
+  </tr>
+  <tr>
+    <td><a href="">迭代器模式（Iterator Pattern）</a></td>
+  </tr>
+  <tr>
+    <td><a href="">中介者模式（Mediator Pattern）</a></td>
+  </tr>
+  <tr>
+    <td><a href="">备忘录模式（Memento Pattern）</a></td>
+  </tr>
+  <tr>
+    <td><a href="">状态模式（State Pattern）</a></td>
+  </tr>
+  <tr>
+    <td><a href="">空对象模式（Null Object Pattern）</a></td>
+  </tr>
+  <tr>
+    <td><a href="">模板模式（Template Pattern）</a></td>
+  </tr>
+  <tr>
+    <td><a href="">访问者模式（Visitor Pattern）</a></td>
+  </tr>
+  <tr>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
     <td><a href=""></a></td>
   </tr>
   <tr>
