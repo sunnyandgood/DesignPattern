@@ -106,5 +106,5 @@
     <td><a href="">传输对象模式（Transfer Object Pattern）</a></td>
   </tr>
 </teble>
-
+------------------------------------
 <div align="center"><img src="./img/design-patterns.jpg"/></div>
