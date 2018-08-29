@@ -23,7 +23,7 @@
      <td width="400px"><a href="./3、代理模式.md">代理模式（Proxy Pattern）</a></td>
   </tr>
   <tr>
-    <td><a href="./5、装饰模式.md">装饰器模式（Decorator Pattern）</a></td>
+    <td><a href="./5、装饰模式(Decorator).md">装饰器模式（Decorator Pattern）</a></td>
   </tr>
   <tr>
     <td><a href="">适配器模式（Adapter Pattern）</a></td>
