@@ -6,7 +6,7 @@
   <tr>
     <td>lk,dihfgoi</td>
   </tr>
-</table
+</table>
 
 ### 二、图解设计模式之间的关系
 
