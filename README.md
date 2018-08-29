@@ -19,7 +19,7 @@
   </tr>
   
   <tr>
-     <th rowspan="8" width="300px" align="left">结构型模式:<br>这些设计模式关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式。</th>
+     <th rowspan="8" width="300px" align="left">结构型模式:（7种+过滤器模式）<br>这些设计模式关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式。</th>
      <td width="400px"><a href="./3、代理模式.md">代理模式（Proxy Pattern）</a></td>
   </tr>
   <tr>
@@ -32,9 +32,6 @@
     <td><a href="">桥接模式（Bridge Pattern）</a></td>
   </tr>
   <tr>
-    <td><a href="">过滤器模式（Filter、Criteria Pattern）</a></td>
-  </tr>
-  <tr>
     <td><a href="">组合模式（Composite Pattern）</a></td>
   </tr>
   <tr>
@@ -42,6 +39,9 @@
   </tr>
   <tr>
     <td><a href="">享元模式（Flyweight Pattern）</a></td>
+  </tr>
+  <tr>
+    <td><a href="">过滤器模式（Filter、Criteria Pattern）</a></td>
   </tr>
   <tr>
      <th rowspan="8" width="300px" align="left">行为型模式:<br>这些设计模式特别关注对象之间的通信。</th>
