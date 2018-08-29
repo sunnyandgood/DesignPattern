@@ -17,6 +17,32 @@
   <tr>
     <td><a href="">原型模式（Prototype Pattern）</a></td>
   </tr>
+  
+  <tr>
+     <th rowspan="8" width="300px" align="left">结构型模式:<br>这些设计模式关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式。</th>
+     <td width="400px"><a href="./2、策略模式.md">策略模式（Strategy Pattern）</a></td>
+  </tr>
+  <tr>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td><a href=""></a></td>
+  </tr>
+  <tr>
+    <td><a href=""></a></td>
+  </tr>
   <tr>
     <td><a href=""></a></td>
   </tr>
