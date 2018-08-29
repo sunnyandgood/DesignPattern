@@ -44,7 +44,7 @@
     <td><a href="">过滤器模式（Filter、Criteria Pattern）</a></td>
   </tr>
   <tr>
-     <th rowspan="8" width="300px" align="left">行为型模式:<br>这些设计模式特别关注对象之间的通信。</th>
+     <th rowspan="12" width="300px" align="left">行为型模式:<br>这些设计模式特别关注对象之间的通信。</th>
      <td width="400px"><a href="./2、策略模式.md">策略模式（Strategy Pattern）</a></td>
   </tr>
   <tr>
