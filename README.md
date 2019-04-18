@@ -1,5 +1,5 @@
 # DesignPattern
-
+- [类图中的关系](../StudyNotes/软件工程导论/第十章、面向对象需求分析/第十章面向对象需求分析.md)
 * [六大设计原则](./六大设计原则.md)
 
 ### 一、设计模式
@@ -21,7 +21,6 @@
   <tr>
     <td><a href="">原型模式（Prototype Pattern）</a></td>
   </tr>
-
   <tr>
      <th rowspan="8" width="300px" align="left">结构型模式:（7种+过滤器模式）<br>这些设计模式关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式。</th>
      <td width="400px"><a href="./3、代理模式.md">代理模式（Proxy Pattern）</a></td>
