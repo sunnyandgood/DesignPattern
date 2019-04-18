@@ -1,5 +1,5 @@
 # DesignPattern
-- [类图中的关系](./../StudyNotes/软件工程导论/第十章、面向对象需求分析/第十章面向对象需求分析.md)
+- [类图中的关系](https://github.com/sunnyandgood/StudyNotes/blob/master/软件工程导论/第十章、面向对象需求分析/第十章面向对象需求分析.md#103-类图中类关系的画法)
 * [六大设计原则](./六大设计原则.md)
 
 ### 一、设计模式
