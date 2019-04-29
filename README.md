@@ -10,7 +10,7 @@
      <td width="400px"><a href="./1、单例模式.md">单例模式（Singleton Pattern）</a></td>
   </tr>
   <tr>
-    <td><a href="">工厂模式（Factory Pattern）</a></td>
+    <td><a href="./6、工厂方法模式.md">工厂方法模式（Factory Pattern）</a></td>
   </tr>
   <tr>
     <td><a href="">抽象工厂模式（Abstract Factory Pattern）</a></td>
