@@ -13,7 +13,7 @@
     <td><a href="./6、工厂方法模式.md">工厂方法模式（Factory Pattern）</a></td>
   </tr>
   <tr>
-    <td><a href="">抽象工厂模式（Abstract Factory Pattern）</a></td>
+    <td><a href="./7、抽象工厂模式.md">抽象工厂模式（Abstract Factory Pattern）</a></td>
   </tr>
   <tr>
     <td><a href="">建造者模式（Builder Pattern）</a></td>
@@ -109,6 +109,7 @@
     <td><a href="">传输对象模式（Transfer Object Pattern）</a></td>
   </tr>
 </table>
+
 
 ### 二、图解设计模式之间的关系
 
