@@ -75,7 +75,7 @@
     <td><a href="">状态模式（State Pattern）</a></td>
   </tr>
   <tr>
-    <td><a href="">模板模式（Template Pattern）</a></td>
+    <td><a href="./8、模板方法模式.md">模板方法模式（Template Method Pattern）</a></td>
   </tr>
   <tr>
     <td><a href="">访问者模式（Visitor Pattern）</a></td>
@@ -109,6 +109,7 @@
     <td><a href="">传输对象模式（Transfer Object Pattern）</a></td>
   </tr>
 </table>
+
 
 
 ### 二、图解设计模式之间的关系
