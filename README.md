@@ -16,7 +16,7 @@
     <td><a href="./7、抽象工厂模式.md">抽象工厂模式（Abstract Factory Pattern）</a></td>
   </tr>
   <tr>
-    <td><a href="">建造者模式（Builder Pattern）</a></td>
+    <td><a href="./9、建造者模式.md">建造者模式（Builder Pattern）</a></td>
   </tr>
   <tr>
     <td><a href="">原型模式（Prototype Pattern）</a></td>
